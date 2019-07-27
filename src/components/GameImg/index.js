@@ -1,4 +1,5 @@
 import React from "react";
+import "./style.css";
 
 function GameImg(props) {
     var styles = {
@@ -9,6 +10,7 @@ function GameImg(props) {
     }
     return (
         <img 
+            className="game-img"
             alt={props.name} 
             src={props.image} 
             style={styles} 
