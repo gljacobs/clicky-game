@@ -1,4 +1,4 @@
-# The Office Clicky-Game
+# Adventure Time Clicky-Game
 
 ![alt text](./scrnshot.png "Adventure Time Clicky Game")
 
