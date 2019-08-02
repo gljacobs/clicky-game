@@ -5,7 +5,7 @@ function Header() {
         jumbotron: {
             backgroundAttachment: "fixed",
             backgroundImage: "url(./imgs/jumb.gif)",
-            backgroundPosition: "0 -250px",
+            backgroundPosition: "0 -175px",
             minHeight: "500px",
             backgroundSize: "100%",
             paddingTop: "100px",
